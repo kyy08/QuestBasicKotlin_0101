@@ -60,9 +60,3 @@ fun contohMap() {
     val shapesLocked: Map<String, Int> = shape
     println(shapesLocked)
 
-}
-
-fun main() {
-    contohList()
-    contohSet()
-    contohMap()
