@@ -66,4 +66,3 @@ fun main() {
     contohList()
     contohSet()
     contohMap()
-}
