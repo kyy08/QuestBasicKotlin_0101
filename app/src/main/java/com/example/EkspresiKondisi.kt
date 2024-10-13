@@ -61,4 +61,3 @@ fun perulangan() {
 fun main() {
     conditionalStatement()
     perulangan()
-}
