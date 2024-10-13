@@ -19,7 +19,7 @@ fun main() {
     val booleanValue = true
     println("Boolean: $booleanValue")
 
-    var stringValue =  "Hello,World!"
+    var stringValue = "Hello,World!"
     println("String: $stringValue")
 
     stringValue = "Hello,Kotlin!"
