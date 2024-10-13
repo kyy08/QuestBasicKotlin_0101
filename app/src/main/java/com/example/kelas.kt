@@ -9,5 +9,3 @@ fun main() {
     println(contact.email)
     contact.email = "jane@gmail.com"
     println(contact.email)
-
-}
